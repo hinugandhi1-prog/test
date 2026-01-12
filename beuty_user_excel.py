@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Input URL
+# Input URL ---
 url = input("Enter website URL: ")
 
 headers = {"User-Agent": "Mozilla/5.0"}
